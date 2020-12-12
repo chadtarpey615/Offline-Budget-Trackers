@@ -53,7 +53,7 @@ Offline-Budget-Trackers
 
 ---
 ## How To Use
-- Visit   
+- Visit https://peaceful-caverns-58225.herokuapp.com/
 - Google Chrome or any Web Browser
 ---
 ## References
